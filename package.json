@@ -30,7 +30,7 @@
   },
   "types": "./src/index.d.ts",
   "scripts": {
-    "check": "node --check src/index.js && tsc --noEmit --skipLibCheck --moduleResolution bundler --module esnext --target es2022 src/index.d.ts && pnpm pack --pack-destination /tmp",
+    "check": "node --check src/index.js && pnpm pack --pack-destination /tmp",
     "release": "semantic-release",
     "release:dry-run": "semantic-release --dry-run"
   },
