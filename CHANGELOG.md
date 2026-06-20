@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/krislintigo/eslint-config-vue/compare/v1.0.0...v1.1.0) (2026-06-20)
+
+### Features
+
+* update eslint-plugin-vue ([a221e8a](https://github.com/krislintigo/eslint-config-vue/commit/a221e8a20e2cad2c53b4b4d0a8473089e2cf4dc7))
+
 ## 1.0.0 (2026-05-19)
 
 ### Features
