@@ -1,6 +1,6 @@
 {
   "name": "@krislintigo/eslint-config-vue",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Vue companion pieces for the shared ESLint flat config.",
   "type": "module",
   "license": "MIT",

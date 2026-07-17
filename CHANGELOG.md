@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/krislintigo/eslint-config-vue/compare/v1.1.0...v1.2.0) (2026-07-17)
+
+### Features
+
+* update eslint version to 10.7.0 ([61fb666](https://github.com/krislintigo/eslint-config-vue/commit/61fb6668fa4e708d593b1bfb4037fcaa009cc447))
+
 ## [1.1.0](https://github.com/krislintigo/eslint-config-vue/compare/v1.0.0...v1.1.0) (2026-06-20)
 
 ### Features
